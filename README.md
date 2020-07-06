@@ -4,6 +4,8 @@ Modified version of ADL and DEVDAN: Implement multiple node growing scenario and
 This code is the implementation of our ICDMW 2019 AML Workshop paper titled: 
 Autonomous Deep Learning: Incremental Learning of Deep Neural Networks for Evolving Data Streams
 
+Paper can be downloaded here: https://ieeexplore.ieee.org/abstract/document/8955598/
+
 We extend ADL and DEVDAN by introducing multiple node growing and synapses pruning.
 Datasets can be downloaded here: https://drive.google.com/open?id=1AG7u4-QSlNFAa9D4LiE7cvr-AXpu0L3z
 
